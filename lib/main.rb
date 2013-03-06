@@ -2,7 +2,7 @@
 # 
 # Main Module
 # 
-# (C) 2009, Carlos Puchol, cpg@rocketmail.com
+# (C) 2009, Carlos Puchol, cpg (at) rocketmail (dot) com
 # 
 # This module the main code to drive the playing and also the simulation of Black Jack games.
 # 

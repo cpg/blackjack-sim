@@ -1,7 +1,7 @@
 # 
 # Cards Module
 # 
-# (C) 2009, Carlos Puchol, cpg@rocketmail.com
+# (C) 2009, Carlos Puchol, cpg (at) rocketmail (dot) com
 # 
 # This module contains classes that model cards and decks
 # There are two decks pre-configured (default to the usual used in poker)

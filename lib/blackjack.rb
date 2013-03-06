@@ -1,7 +1,7 @@
 # 
 # BlackJack Module
 # 
-# (C) 2009, Carlos Puchol, cpg@rocketmail.com
+# (C) 2009, Carlos Puchol, cpg (at) rocketmail (dot) com
 # 
 # This module contains classes that are specific to the game of BlackJack (aka
 # 21: http://en.wikipedia.org/wiki/Blackjack
