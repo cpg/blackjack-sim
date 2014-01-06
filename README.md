@@ -1,4 +1,5 @@
-== BlackJack
+BlackJack
+=========
 
 This is a BlackJack Game and simulator written in
 ruby as I was showing my kids what programming was like.
@@ -12,7 +13,11 @@ programmable strategy playing against the house.
 My machine can simulate about 4000 games per second
 in simulation mode.
 
-You can see some sample output from simulation in
+You can see some sample output from simulation:
+
+![Sample Simulation Graph](sample-graph.png)
+
+available in these files as well
 
 	sample-output.csv
 and
