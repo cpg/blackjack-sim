@@ -10,7 +10,8 @@
 # http://www.gnu.org/licenses/gpl-3.0.html
 # 
 
-require 'cards'
+load 'deck.rb'
+load 'player.rb'
 
 # BlackJackPlayer, a subclass of Player that has the bits needed
 # to play Black Jack
